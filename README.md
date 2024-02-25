@@ -1,4 +1,4 @@
-# DefinitionHealth_assignment
+# Assignment
 
 Gender Categorization: Classifying the products under three different genders "Male","Female" and "Unisex" using two supervised machine learning algorithms.
 
